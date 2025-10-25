@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,10 +57,6 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ComandosViewModels.cs",
@@ -68,7 +64,7 @@
               "RelativeDocumentMoniker": "MVVM\\View Models\\ComandosViewModels.cs",
               "ToolTip": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\MVVM\\View Models\\ComandosViewModels.cs",
               "RelativeToolTip": "MVVM\\View Models\\ComandosViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T23:51:59.771Z",
               "EditorCaption": ""
@@ -83,8 +79,7 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T00:05:33.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T00:05:33.271Z"
             },
             {
               "$type": "Document",
@@ -96,8 +91,7 @@
               "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T00:05:28.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T00:05:28.161Z"
             },
             {
               "$type": "Document",
@@ -109,8 +103,7 @@
               "RelativeToolTip": "MVVM\\Views\\ComandosView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T23:55:34.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T23:55:34.705Z"
             },
             {
               "$type": "Document",
@@ -122,21 +115,23 @@
               "RelativeToolTip": "MVVM\\Views\\ComandosView.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-24T23:51:05.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T23:51:05.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PracticaComandos",
+              "Title": "PracticaComandos.csproj",
               "DocumentMoniker": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\PracticaComandos.csproj",
               "RelativeDocumentMoniker": "PracticaComandos.csproj",
               "ToolTip": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\PracticaComandos.csproj",
               "RelativeToolTip": "PracticaComandos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-24T23:46:49.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T23:46:49.283Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         },
