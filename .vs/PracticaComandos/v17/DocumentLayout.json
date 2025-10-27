@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\mvvm\\view models\\comandosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:mvvm\\view models\\comandosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\mvvm\\views\\comandosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,8 @@
       "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\mvvm\\view models\\comandosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|solutionrelative:mvvm\\view models\\comandosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01DA74F0-7011-4BAC-A4E3-D859F374D96F}|PracticaComandos.csproj|c:\\users\\utss\\source\\repos\\practicacomandos\\practicacomandos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,14 +53,18 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ComandosViewModels.cs",
               "DocumentMoniker": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\MVVM\\View Models\\ComandosViewModels.cs",
               "RelativeDocumentMoniker": "MVVM\\View Models\\ComandosViewModels.cs",
               "ToolTip": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\MVVM\\View Models\\ComandosViewModels.cs",
               "RelativeToolTip": "MVVM\\View Models\\ComandosViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T23:51:59.771Z",
               "EditorCaption": ""
@@ -79,19 +79,8 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T00:05:33.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T00:05:28.161Z"
+              "WhenOpened": "2025-10-25T00:05:33.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,23 +92,25 @@
               "RelativeToolTip": "MVVM\\Views\\ComandosView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T23:55:34.705Z"
+              "WhenOpened": "2025-10-24T23:55:34.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ComandosView.xaml",
               "DocumentMoniker": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\MVVM\\Views\\ComandosView.xaml",
               "RelativeDocumentMoniker": "MVVM\\Views\\ComandosView.xaml",
               "ToolTip": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\MVVM\\Views\\ComandosView.xaml",
               "RelativeToolTip": "MVVM\\Views\\ComandosView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-24T23:51:05.905Z"
+              "WhenOpened": "2025-10-24T23:51:05.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PracticaComandos.csproj",
               "DocumentMoniker": "C:\\Users\\UTSS\\source\\repos\\PracticaComandos\\PracticaComandos.csproj",
               "RelativeDocumentMoniker": "PracticaComandos.csproj",
@@ -128,10 +119,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-24T23:46:49.283Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         },

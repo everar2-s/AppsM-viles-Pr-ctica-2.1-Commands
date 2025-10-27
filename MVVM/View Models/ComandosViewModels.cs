@@ -8,6 +8,9 @@ using System.Windows.Input;
 namespace PracticaComandos.MVVM.View_Models {
    public class ComandosViewModels {
 
+        public ICommand SearchCommand { get; } 
+        
+        public string SearchData { get; set; }
         public ICommand ClickCommand =>
             new Command(Alert);
 

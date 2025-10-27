@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaComandos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+76f524f15cca1c270aaf101f6092a76ecf5770a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6fe04ec49b384c8f1433b23a598ccc0291e0a984")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaComandos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaComandos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
