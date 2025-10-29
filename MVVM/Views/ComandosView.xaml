@@ -7,7 +7,7 @@
         <Button Text="Click me"
                 Command="{Binding ClickCommand}"
               />
-        
+       
         <SearchBar 
             Text="{Binding SearchData}"
             SearchCommand="{Binding SearchCommand}"/>
